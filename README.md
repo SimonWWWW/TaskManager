@@ -1,11 +1,14 @@
 # TaskManager - web app
 ## Table of contents
 * [General info](#General-info)
+* [Features](#features)
 * [Screenshots](#Screenshots)
 * [Technologies](#Technologies)
 * [Sources](#Sources)
 ## General info
-Simple web app created to learn how to write simple web apps.
+Web task manager created to learn how to write simple apps.
+## Features
+* With this app you can manage your tasks during the day.
 ## Screenshots
 ![screenshot1](./images/sshot1.png)
 ![screenshot2](./images/sshot2.png)
